@@ -2339,8 +2339,8 @@
     category: Read-it-later Service
     url: https://getpocket.com/pocketparser_ua
     producer:
-        name: Read It Later, Inc.
-        url: https://getpocket.com/
+      name: Read It Later, Inc.
+      url: https://getpocket.com/
 -
   user_agent: PocketImageCache/1.0
   bot:
@@ -2348,8 +2348,8 @@
     category: Read-it-later Service
     url: https://getpocket.com/pocketparser_ua
     producer:
-        name: Read It Later, Inc.
-        url: https://getpocket.com/
+      name: Read It Later, Inc.
+      url: https://getpocket.com/
 -
   user_agent: PritTorrent/1.0
   bot:
@@ -5452,3 +5452,12 @@
     name: ReqBin
     category: Crawler
     url: https://reqbin.com/curl
+-
+  user_agent: Mozilla/5.0 (compatible; XoviBot/2.0; +http://www.xovibot.net/)
+  bot:
+    name: XoviBot
+    category: Crawler
+    url: https://www.xovibot.net
+    producer:
+      name: Xovi GmbH
+      url: http://www.xovi.de
